@@ -1,0 +1,16 @@
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
