@@ -1,0 +1,16 @@
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\bin\Debug\netcoreapp3.1\foreach_diziler.exe
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\bin\Debug\netcoreapp3.1\foreach_diziler.deps.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\bin\Debug\netcoreapp3.1\foreach_diziler.runtimeconfig.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\bin\Debug\netcoreapp3.1\foreach_diziler.runtimeconfig.dev.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\bin\Debug\netcoreapp3.1\foreach_diziler.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\bin\Debug\netcoreapp3.1\foreach_diziler.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.Form1.resources
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\foreach_diziler\obj\Debug\netcoreapp3.1\foreach_diziler.genruntimeconfig.cache
