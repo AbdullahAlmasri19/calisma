@@ -1,0 +1,16 @@
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\bin\Debug\netcoreapp3.1\contains.exe
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\bin\Debug\netcoreapp3.1\contains.deps.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\bin\Debug\netcoreapp3.1\contains.runtimeconfig.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\bin\Debug\netcoreapp3.1\contains.runtimeconfig.dev.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\bin\Debug\netcoreapp3.1\contains.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\bin\Debug\netcoreapp3.1\contains.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.Form1.resources
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\contains\obj\Debug\netcoreapp3.1\contains.genruntimeconfig.cache
