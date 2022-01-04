@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sinav_sorusu/1.0.0": {
+        "runtime": {
+          "sinav_sorusu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sinav_sorusu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

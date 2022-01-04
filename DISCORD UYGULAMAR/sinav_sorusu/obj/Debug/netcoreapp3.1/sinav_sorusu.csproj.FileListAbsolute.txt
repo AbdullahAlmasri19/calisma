@@ -1,0 +1,16 @@
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\bin\Debug\netcoreapp3.1\sinav_sorusu.exe
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\bin\Debug\netcoreapp3.1\sinav_sorusu.deps.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\bin\Debug\netcoreapp3.1\sinav_sorusu.runtimeconfig.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\bin\Debug\netcoreapp3.1\sinav_sorusu.runtimeconfig.dev.json
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\bin\Debug\netcoreapp3.1\sinav_sorusu.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\bin\Debug\netcoreapp3.1\sinav_sorusu.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.Form1.resources
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.dll
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.pdb
+C:\Users\Abdullah\Desktop\DISCORD UYGULAMAR\sinav_sorusu\obj\Debug\netcoreapp3.1\sinav_sorusu.genruntimeconfig.cache
