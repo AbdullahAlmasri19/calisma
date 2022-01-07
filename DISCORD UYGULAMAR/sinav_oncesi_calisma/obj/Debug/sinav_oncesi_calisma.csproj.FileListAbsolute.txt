@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\bin\Debug\sinav_oncesi_calisma.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\bin\Debug\sinav_oncesi_calisma.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\bin\Debug\sinav_oncesi_calisma.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\obj\Debug\sinav_oncesi_calisma.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\obj\Debug\sinav_oncesi_calisma.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\obj\Debug\sinav_oncesi_calisma.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\obj\Debug\sinav_oncesi_calisma.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\obj\Debug\sinav_oncesi_calisma.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sinav_oncesi_calisma\sinav_oncesi_calisma\obj\Debug\sinav_oncesi_calisma.pdb
